@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+backend,com.example.taskmanager,App,5,3,0,0,2,1,1,1,1,1
+backend,com.example.taskmanager,TaskService,40,13,0,0,10,3,4,3,4,3
+backend,com.example.taskmanager,TaskController,32,15,2,0,9,4,4,3,3,3
+backend,com.example.taskmanager,Task,8,26,0,0,2,8,2,7,2,7

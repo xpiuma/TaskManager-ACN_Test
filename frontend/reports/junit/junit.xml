@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="1.844">
+  <testsuite name="TaskManager" errors="0" failures="0" skipped="0" timestamp="2025-09-09T09:21:06" time="1.04" tests="5">
+    <testcase classname="TaskManager renders tasks from API" name="TaskManager renders tasks from API" time="0.032">
+    </testcase>
+    <testcase classname="TaskManager can add a new task" name="TaskManager can add a new task" time="0.014">
+    </testcase>
+    <testcase classname="TaskManager shows error if title is missing" name="TaskManager shows error if title is missing" time="0.008">
+    </testcase>
+    <testcase classname="TaskManager can delete a task" name="TaskManager can delete a task" time="0.013">
+    </testcase>
+    <testcase classname="TaskManager can edit a task" name="TaskManager can edit a task" time="0.016">
+    </testcase>
+  </testsuite>
+</testsuites>
